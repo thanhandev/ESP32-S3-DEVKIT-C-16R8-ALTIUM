@@ -11,14 +11,12 @@ Altium Designer library for ESP32-S3-DEVKIT-C-16R8 module.
 
 ## Preview
 
-### Schematic
-![schematic](Images/schematic.png)
 
 ### PCB
-![pcb](Images/pcb.png)
+![pcb](Images/YD-ESP32-S3_P1.png)
 
 ### 3D
-![3d](Images/3d.png)
+![3d](Images/YD-ESP32-S3_P1.png)
 
 ## Installation
 
